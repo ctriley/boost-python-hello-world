@@ -19,3 +19,6 @@ In the python shell
 > import greet_ext
 > greet_ext.greet()
 ```
+
+### Notes
+Has been tested on Intel and Apple Silicon Macs on macOS 12.1, as well as Ubuntu 20.04LTS.
